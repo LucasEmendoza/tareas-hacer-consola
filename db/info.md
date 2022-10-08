@@ -1,0 +1,1 @@
+Esta carpeta contiene persistencia de archivos
